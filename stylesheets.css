@@ -1,0 +1,117 @@
+body{
+	background: url("https://static.pexels.com/photos/1188/city-landmark-lights-night.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+h1{
+	font-family: 'Quicksand', sans-serif;
+	color: white!important;
+	font-size: 72px;
+	letter-spacing: 2px;
+	text-shadow: 3px 3px #FF3A4F;
+	opacity: 1;
+}
+h2 {
+	font-family: 'Quicksand', sans-serif;
+	color: white!important;
+	font-size: 42px;
+	letter-spacing: 2px;
+	text-shadow: 3px 3px #FF3A4F;
+	opacity: 1;
+}
+
+h3{
+	font-family: 'Quicksand', sans-serif;
+	color: #FF3A4F!important;
+	line-height: 8px;
+}
+h4{
+	font-family: 'Quicksand', sans-serif;
+	color: #FF3A4F;
+	font-size: 24px;
+	line-height: 38px;
+}
+.jumbotron{
+	background: transparent;
+	
+}
+
+.well{
+	background-color: #0E041C;
+	border-collapse: collapse;
+	border-color: #0E041C;
+	opacity: 0.8;
+}
+.thumbnail {
+	background-color: #24094A;
+	opacity: 0.6;
+}
+nav {
+	background-color: #0E041C!important;
+	opacity: 0.8;
+	border-color: #0E041C!important;
+}
+
+a {
+	font-family: 'Quicksand', sans-serif;
+	color: white!important;
+	letter-spacing: 2px;
+}
+a:visited {
+    color: gray;
+}
+a:hover {
+    color: #FF3A4F;
+}
+p {
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 16px!important;
+	letter-spacing: 2px;
+
+}
+
+li {
+  	display:inline-block;
+	list-style-type: none;
+	padding:0;
+	margin:0;
+	overflow: hidden;
+	border-radius: 0 !important;
+   }
+.container2 {
+  	background-color: #0E041C;
+	border-collapse: collapse;
+	border-color: #0E041C;
+	opacity: 0.8;
+	width: 48%;
+	float:left;
+  }
+ .container3 {
+  	background-color: #0E041C;
+	border-collapse: collapse;
+	border-color: #0E041C;
+	opacity: 0.8;
+	width: 48%;
+	float: right;
+}
+
+.container4 {
+	position:relative;
+	background-color: #0E041C;
+	opacity: 0.6;
+	width: 80%;
+	margin-left: 10%;
+}
+.container5 {
+	position:relative;
+	background-color: #0E041C;
+	opacity: 0.6;
+	width: 90%;
+	margin-left: 5%;
+}
+.contact {
+	text-align: center;
+	}
+
+
